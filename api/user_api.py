@@ -3,7 +3,7 @@ from config import BASE_URL, HEADERS
 
 
 def create_user():
-    """Create a new user with the given username and password."""
+    """Create a new user and return the user token and login."""
     url = f"{BASE_URL}/users"
     user_data = {
         "user": {
