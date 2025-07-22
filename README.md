@@ -24,7 +24,7 @@ The goal of this project is to automate testing of user creation and update func
 
 ```bash
 git clone https://github.com/YuliaShap/favqs-api-tests.git
-cd favqs-api-tests
+cd test_api_favqs
 ```
 
 2. Install dependencies:
